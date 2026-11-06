@@ -1,0 +1,13 @@
+{
+  "name": "clikgate-gtm-template",
+  "private": true,
+  "type": "module",
+  "description": "Clikgate tag template for Google Tag Manager: the template's tests and behaviour tests in node",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node test/harness.mjs && node test/behaviour.test.mjs"
+  }
+}

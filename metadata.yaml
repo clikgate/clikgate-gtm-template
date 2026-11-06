@@ -1,0 +1,6 @@
+homepage: "https://clikgate.com"
+documentation: "https://clikgate.com/docs/google-tag-manager"
+versions:
+  # Latest version. Replace the sha with the commit of template.tpl in the public repository before submitting.
+  - sha: 0000000000000000000000000000000000000000
+    changeNotes: Initial release with base script, goal, payment reported and App banners tag types.
